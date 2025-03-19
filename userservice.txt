@@ -1,1 +1,5 @@
 Get the user data...
+User service data" refers to information collected and managed by a service or
+ application about its users,
+ encompassing data like personal information, preferences, and usage patterns. 
+
